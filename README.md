@@ -1,4 +1,4 @@
-##### Deriving Novel Parameters for the Assortment Decision Using Textual Analytics #####
+# Deriving Novel Parameters for the Assortment Decision Using Textual Analytics
 
 ## RShiny Application Link: https://rsyal.shinyapps.io/RShinyApplication/
 
