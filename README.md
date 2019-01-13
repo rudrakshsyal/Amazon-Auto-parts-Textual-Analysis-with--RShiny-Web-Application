@@ -1,6 +1,6 @@
 # Deriving Novel Parameters for the Assortment Decision Using Textual Analytics
 
-## RShiny Application Link: https://rsyal.shinyapps.io/RShinyApplication/
+##### RShiny Application Link: https://rsyal.shinyapps.io/RShinyApplication/
 
 ## Abstract
 We employ a text content analysis framework that has been successful in other studies to identify important features of automobile service parts. We then show how such knowledge could be integrated into assortment planning model to help provide a category manager additional insight into which products to stock and which to remove. The motivation for this research is the fact that assortment planning decision is considered one of the most important decisions a firm will make because of the direct impact that the products offered (or not offered) will have on the firm’s key performance measures.
